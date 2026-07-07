@@ -1,0 +1,29 @@
+{
+    "nonRenewingSubscriptions" : [],
+    "products" : [
+      {
+        "displayPrice" : "4.99",
+        "familyShareable" : false,
+        "internalID" : "com.shimondeitel.printmakinglog.pro",
+        "localizations" : [
+          {
+            "description" : "Edition Sold/Remaining Tracker",
+            "displayName" : "Etch Mark - Printmaking Log Pro",
+            "locale" : "en_US"
+          }
+        ],
+        "productID" : "com.shimondeitel.printmakinglog.pro",
+        "referenceName" : "Etch Mark - Printmaking Log Pro",
+        "type" : "NonConsumable"
+      }
+    ],
+    "settings" : {
+      "_locale" : "en_US",
+      "_storefront" : "USA"
+    },
+    "subscriptionGroups" : [],
+    "version" : {
+      "major" : 3,
+      "minor" : 0
+    }
+}
